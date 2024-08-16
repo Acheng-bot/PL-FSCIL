@@ -7,7 +7,7 @@ FFew-Shot Class-Incremental Learning (FSCIL) aims to enable deep neural networks
 
 - The whole learning pipline of our model:
 <p align="center">
-  <img width=700 src=".github/model.jpg">
+  <img width=800 src=".github/model.jpg">
 </p>
 
 ## Environment
