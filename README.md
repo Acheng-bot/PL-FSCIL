@@ -54,5 +54,5 @@ python -m torch.distributed.launch  --nproc_per_node=1 --use_env --master_port 2
 
 - Compared with DualPrompt:
 <p align="center">
-  <img heigth=100 src=".github/DaulPrompt.jpg">
+  <img heigth=100 src=".github/DaulPrompt.png">
 </p>
