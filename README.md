@@ -44,12 +44,12 @@ python -m torch.distributed.launch  --nproc_per_node=1 --use_env --master_port 2
 ## Results
 - Evaluation on CUB-200:
 <p align="center">
-  <img heigth=100 src=".github/CUB200.png">
+  <img heigth=110 src=".github/CUB200.png">
 </p>
 
 - Evaluation on CUB-CIFAR-100:
 <p align="center">
-  <img heigth=100 src=".github/CIFAR100.png">
+  <img heigth=110 src=".github/CIFAR100.png">
 </p>
 
 - Compared with DualPrompt:
